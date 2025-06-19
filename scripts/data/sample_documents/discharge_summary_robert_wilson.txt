@@ -1,0 +1,31 @@
+
+DISCHARGE SUMMARY
+Patient: Robert Wilson
+Admission Date: 2024-12-05
+Discharge Date: 2024-12-08
+Attending: Dr. Brown
+
+DIAGNOSIS:
+Primary: Hypertensive crisis
+Secondary: Type 2 diabetes mellitus
+
+HOSPITAL COURSE:
+Patient admitted with severely elevated blood pressure (220/120 mmHg).
+Responded well to antihypertensive therapy. Blood pressure normalized
+to 135/85 mmHg by discharge. Diabetes management optimized.
+
+DISCHARGE MEDICATIONS:
+1. Amlodipine 10mg daily
+2. Metoprolol 50mg twice daily  
+3. Metformin 1000mg twice daily
+4. Aspirin 81mg daily
+
+FOLLOW-UP:
+- Primary care physician in 1 week
+- Cardiology consultation in 2 weeks
+- Monitor blood pressure daily at home
+
+DIET:
+- Low sodium (2g daily)
+- Diabetic diet (carbohydrate controlled)
+- Limit alcohol consumption

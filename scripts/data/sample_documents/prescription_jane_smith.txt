@@ -1,0 +1,32 @@
+
+PRESCRIPTION
+Patient: Jane Smith
+Date: 2024-12-10
+Provider: Dr. Johnson
+
+Medications Prescribed:
+1. Metformin 500mg
+   - Take twice daily with meals
+   - For diabetes management
+   - Quantity: 60 tablets
+
+2. Lisinopril 10mg
+   - Take once daily in morning
+   - For blood pressure control
+   - Quantity: 30 tablets
+
+3. Atorvastatin 40mg
+   - Take once daily at bedtime
+   - For cholesterol management
+   - Quantity: 30 tablets
+
+INSTRUCTIONS:
+- Take medications as prescribed
+- Monitor blood pressure at home
+- Schedule follow-up in 3 months
+- Report any unusual side effects
+
+WARNINGS:
+- Metformin: May cause stomach upset
+- Lisinopril: May cause dry cough
+- Atorvastatin: Avoid grapefruit juice

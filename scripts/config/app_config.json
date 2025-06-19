@@ -1,0 +1,35 @@
+{
+  "app_settings": {
+    "app_name": "HealthMind - Privacy-First Healthcare Assistant",
+    "version": "1.0.0",
+    "debug": false,
+    "local_only": true
+  },
+  "database": {
+    "path": "data/health_documents.db",
+    "backup_enabled": true,
+    "backup_interval_days": 7
+  },
+  "security": {
+    "encryption_enabled": true,
+    "password_required": false,
+    "session_timeout_minutes": 30
+  },
+  "features": {
+    "ocr_enabled": true,
+    "pdf_processing": true,
+    "lab_interpretation": true,
+    "medication_lookup": true,
+    "document_search": true
+  },
+  "ui": {
+    "theme": "default",
+    "show_disclaimers": true,
+    "enable_export": true
+  },
+  "health_references": {
+    "lab_ranges_source": "built-in",
+    "medication_db_source": "built-in",
+    "last_updated": "2024-12-01"
+  }
+}

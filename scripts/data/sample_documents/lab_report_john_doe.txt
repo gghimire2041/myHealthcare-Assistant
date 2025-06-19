@@ -1,0 +1,27 @@
+
+COMPREHENSIVE METABOLIC PANEL
+Patient: John Doe
+Date: 2024-12-15
+Provider: Dr. Smith
+
+RESULTS:
+Glucose: 95 mg/dL (Normal: 70-99)
+Total Cholesterol: 185 mg/dL (Desirable: <200)
+HDL Cholesterol: 45 mg/dL (Normal: >40 for males)
+LDL Cholesterol: 115 mg/dL (Optimal: <100)
+Triglycerides: 140 mg/dL (Normal: <150)
+Hemoglobin: 14.2 g/dL (Normal: 13.5-17.5)
+White Blood Cells: 6.8 K/μL (Normal: 4.0-11.0)
+Platelets: 275 K/μL (Normal: 150-450)
+Creatinine: 1.0 mg/dL (Normal: 0.6-1.3)
+
+INTERPRETATION:
+- Glucose levels are within normal range
+- Cholesterol levels are acceptable but LDL is slightly elevated
+- Complete blood count shows normal values
+- Kidney function appears normal
+
+RECOMMENDATIONS:
+- Continue current diet and exercise routine
+- Consider dietary modifications to reduce LDL cholesterol
+- Follow-up in 6 months
